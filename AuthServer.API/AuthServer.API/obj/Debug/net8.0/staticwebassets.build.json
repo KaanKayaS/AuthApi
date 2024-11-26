@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "pPmpPmK6GVGCWhoOSMQzP8w0Lek2NBhFFIEgCHvevmo=",
+  "Source": "AuthServer.API",
+  "BasePath": "_content/AuthServer.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Kaan Kaya\\source\\repos\\AuthServer.API\\MiniApp1.API\\MiniApp1.API.csproj",
+      "Version": 2,
+      "Source": "MiniApp1.API",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
